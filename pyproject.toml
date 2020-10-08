@@ -1,0 +1,10 @@
+[build-system]
+requires = ["flit_core >=2,<4"]
+build-backend = "flit_core.buildapi"
+
+[tool.flit.metadata]
+module = "qa_empleo"
+author = "Rafael Aybar Segura"
+classifiers = ["License :: OSI Approved :: MIT License"]
+description-file = "README.md"
+
